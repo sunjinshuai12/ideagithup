@@ -6,5 +6,5 @@ package test;
 public class user {
 
 int  x =0;
-
+int  y=10;
 }
