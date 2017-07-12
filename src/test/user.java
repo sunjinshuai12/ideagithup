@@ -5,5 +5,6 @@ package test;
  */
 public class user {
 
+int  x =0;
 
 }
